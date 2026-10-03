@@ -9,6 +9,8 @@ I work across 15+ web and mobile products in healthcare, fintech, fitness, hospi
 - sprint coordination;
 - UAT and change control.
 
+**Portfolio and case studies:** [ayushsingh0456.github.io](https://ayushsingh0456.github.io)
+
 ---
 
 #### Featured work
@@ -61,6 +63,7 @@ I work across 15+ web and mobile products in healthcare, fintech, fitness, hospi
 
 #### Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-ayushsingh0456.github.io-0E7A6D)](https://ayushsingh0456.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kumar%20Singh-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-singh-914495189/)
 
 Based in Mohali, Punjab, India
